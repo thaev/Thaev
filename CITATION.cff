@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "THAEV — A Common Heritage of Humanity"
+message: "If you use this vision or architecture in your research, please cite it as below."
+type: article
+authors:
+  - name: "The Anonymous Originator of THAEV"
+date-released: 2026-06-06
+url: "https://thaev.com"
+repository-code: "https://github.com/thaev/thaev"
+license: CC-BY-SA-4.0
+keywords:
+  - decentralized AI
+  - collective intelligence
+  - sovereign AI assistant
+  - peer-to-peer network
+  - open source infrastructure
+  - digital sovereignty
