@@ -2,7 +2,7 @@ THE THAEV MANIFESTO
 Project Name: THAEV (An Idea from the Stars)
 Slogan: FOR HUMANITY
 Operational Model: Common Heritage of Humanity – Decentralized Open-Source Infrastructure
-Ultimate Philosophy: Leveraging the most advanced technology to make technology invisible.
+Ultimate Philosophy: Leveraging the most advanced technology to make technology invisible..
 ________________________________________
 FOREWORD: THE DEGRADATION OF THE DIGITAL AGE AND THE DEAD INTERNET
 For over two decades, the Internet has been driven down a fundamentally flawed path: the Attention Economy. Tech monopolies have weaponized humanity's most primal instincts—the need for connection, the thirst for knowledge, and the desire for validation—to turn our living hours into advertising revenue.
